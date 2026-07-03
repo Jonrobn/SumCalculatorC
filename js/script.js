@@ -19,7 +19,7 @@ function clearEntries(){
     document.getElementById('num2').value="";
     document.getElementById('num3').value="";
 
-    document.getElementById("answer").textContent = "";
+    document.getElementById('answer').textContent = "";
     
 }
 
